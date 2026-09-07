@@ -15,8 +15,8 @@
     <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Tenetur, eos ipsam sapiente tempore commodi incidunt
         laudantium quibusdam voluptatibus a quasi similique saepe, quis nesciunt, repudiandae aliquid ea. Molestias,
         deleniti amet. </p>
-    <a href="/about">about</a>
-    <a href="/welcome">welcome</a>
+    <a href="/author/about">about</a>
+    <a href="/author/welcome">welcome</a>
 
 </body>
 
